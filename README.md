@@ -54,11 +54,12 @@ https://github.com/AndrewAche/homework8.1/branches
 ---
 
 ### Задание 2
-
+ОШИБКА. Но почему?
+![image](https://user-images.githubusercontent.com/121398221/210274567-7b256071-c673-430b-8a7d-6f9c0e9c56a2.png)
 
 ---
 
 ### Задание 3
-
+В ПРОЦЕССЕ
 
 
