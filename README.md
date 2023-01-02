@@ -32,6 +32,7 @@ https://github.com/AndrewAche/homework8.1/blob/main/README.md
 
 https://github.com/AndrewAche/homework8.1/blob/main/.gitignore
 
+
 ---
 
 ### Задание 3
@@ -45,7 +46,7 @@ https://github.com/AndrewAche/homework8.1/branches
 
 ### Задание 1
 ![image](https://user-images.githubusercontent.com/121398221/210271051-982abcc9-8dbd-491f-b1c0-a0f5970bcf33.png)
-
+![image](https://user-images.githubusercontent.com/121398221/210271092-8bea95c0-3c94-41ee-a12d-1d447e98dc73.png)
 ---
 
 ### Задание 2
