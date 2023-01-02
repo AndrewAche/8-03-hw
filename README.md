@@ -45,6 +45,10 @@ https://github.com/AndrewAche/homework8.1/branches
 
 
 ### Задание 1
+
+![image](https://user-images.githubusercontent.com/121398221/210271204-fdc14a8f-ce73-42d7-9363-7b805f772cf1.png)
+![image](https://user-images.githubusercontent.com/121398221/210271217-0c9d363e-60fc-4dbb-afa7-ec239a97a838.png)
+![image](https://user-images.githubusercontent.com/121398221/210271234-46bcb933-e8b1-4bf7-82fc-774d3ae5d815.png)
 ![image](https://user-images.githubusercontent.com/121398221/210271051-982abcc9-8dbd-491f-b1c0-a0f5970bcf33.png)
 ![image](https://user-images.githubusercontent.com/121398221/210271092-8bea95c0-3c94-41ee-a12d-1d447e98dc73.png)
 ---
