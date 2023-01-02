@@ -44,7 +44,7 @@ https://github.com/AndrewAche/homework8.1/branches
 
 
 ### Задание 1
-
+![image](https://user-images.githubusercontent.com/121398221/210271051-982abcc9-8dbd-491f-b1c0-a0f5970bcf33.png)
 
 ---
 
