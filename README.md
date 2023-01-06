@@ -62,4 +62,14 @@ https://github.com/AndrewAche/homework8.1/network
 ### Задание 3
 В ПРОЦЕССЕ
 
+---
 
+
+# Домашнее задание к занятию "9.1. Обзор систем IT-мониторинга" - `Ачеусов Андрей`
+
+
+### Задание 1
+
+![image](https://user-images.githubusercontent.com/121398221/210910139-f7f44371-d06a-4b14-83b2-57c57ae85350.png)
+
+---
