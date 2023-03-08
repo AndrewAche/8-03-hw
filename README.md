@@ -45,22 +45,48 @@ https://github.com/AndrewAche/homework8.1/network
 
 
 ### Задание 1
+![image](https://user-images.githubusercontent.com/121398221/223711414-87c6a330-004b-462c-889c-2ee88311ae69.png)
+![image](https://user-images.githubusercontent.com/121398221/223711432-f23e7e71-f92f-415f-a22a-4eea0f0c119f.png)
+![image](https://user-images.githubusercontent.com/121398221/223711460-f827895b-a9bf-425b-9ec5-d5efb2b847b5.png)
 
-![image](https://user-images.githubusercontent.com/121398221/210271204-fdc14a8f-ce73-42d7-9363-7b805f772cf1.png)
-![image](https://user-images.githubusercontent.com/121398221/210271217-0c9d363e-60fc-4dbb-afa7-ec239a97a838.png)
-![image](https://user-images.githubusercontent.com/121398221/210271234-46bcb933-e8b1-4bf7-82fc-774d3ae5d815.png)
-![image](https://user-images.githubusercontent.com/121398221/210271051-982abcc9-8dbd-491f-b1c0-a0f5970bcf33.png)
-![image](https://user-images.githubusercontent.com/121398221/210271092-8bea95c0-3c94-41ee-a12d-1d447e98dc73.png)
 ---
 
 ### Задание 2
-ОШИБКА. Но почему?
-![image](https://user-images.githubusercontent.com/121398221/210274567-7b256071-c673-430b-8a7d-6f9c0e9c56a2.png)
+![image](https://user-images.githubusercontent.com/121398221/223711487-ee6040f9-45c3-4dd3-b83b-e9917708e2cc.png)
+![image](https://user-images.githubusercontent.com/121398221/223711518-e5b412c1-a09e-452d-80a0-7b103ba74bbe.png)
+![image](https://user-images.githubusercontent.com/121398221/223711551-e9ae72dc-002e-45b0-8c44-514e3e8d071a.png)
 
 ---
 
 ### Задание 3
-В ПРОЦЕССЕ
+Nexus поднял, создал репозиторий
+![image](https://user-images.githubusercontent.com/121398221/223711649-6e507a5e-807d-4fe5-8482-32652e3a2266.png)
+НЕ МОГУ СОБРАТЬ бинарник go и запушить его. Подскажите, пожалуйста, команды, в чем ошибка?
+pipeline {
+ agent any
+ stages {
+  stage('Git') {
+   steps {git 'https://github.com/netology-code/sdvps-materials.git'}
+  }
+  stage('Test') {
+   steps {
+    sh '/usr/local/go/bin/go test'
+   }
+  }
+  stage('Build') {
+   steps {
+    sh 'go build -a -installsuffix nocgo -o /app .'
+   }
+  }
+  stage('Push') {
+   steps {
+    sh 'docker login ubuntu-bionic:8082 -u admin -p admin && docker push ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER && docker logout'   }
+  }
+ }
+}
+
+![image](https://user-images.githubusercontent.com/121398221/223712285-cc975e1a-41cb-460c-8f35-dcaebeb70874.png)
+
 
 ---
 
