@@ -62,6 +62,8 @@ https://github.com/AndrewAche/homework8.1/network
 Nexus поднял, создал репозиторий
 ![image](https://user-images.githubusercontent.com/121398221/223711649-6e507a5e-807d-4fe5-8482-32652e3a2266.png)
 НЕ МОГУ СОБРАТЬ бинарник go и запушить его. Подскажите, пожалуйста, команды, в чем ошибка?
+![image](https://user-images.githubusercontent.com/121398221/223712432-346588d6-a5c9-4e7c-98db-d9c618a5de5e.png)
+
 pipeline {
  agent any
  stages {
