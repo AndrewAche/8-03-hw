@@ -96,6 +96,13 @@ pipeline {
 ![image](https://user-images.githubusercontent.com/121398221/224513630-f474f665-6b95-470f-a906-b57b2cd90886.png)
 ![image](https://user-images.githubusercontent.com/121398221/224513634-f4512ddb-d4d1-4998-ab3a-986f5fbf2f2c.png)
 
+ЕСТЬ ПРОБЛЕМА:
+В самом нексусе в репозиториях не вижу изменений, т.е. самого файла outfile.go нет. Почему так? Может не туда смотрю?
+![image](https://user-images.githubusercontent.com/121398221/224513752-8d6a0dab-fb5f-43ae-a809-f965f6cae6d4.png)
+![image](https://user-images.githubusercontent.com/121398221/224513779-8c6e58b2-5476-4b29-9654-f065016f6f4d.png)
+![image](https://user-images.githubusercontent.com/121398221/224513761-dbbe7972-bada-4d3b-bc5f-22068b91cdda.png)
+
+
 ---
 
 
