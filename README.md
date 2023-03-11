@@ -89,6 +89,12 @@ pipeline {
 
 ![image](https://user-images.githubusercontent.com/121398221/223712285-cc975e1a-41cb-460c-8f35-dcaebeb70874.png)
 
+АКТУАЛИЗАЦИЯ ОТ 12.03
+Получилось выполнить задание
+![image](https://user-images.githubusercontent.com/121398221/224513621-b1ee1572-217f-48b4-95ff-4f8982e35dfd.png)
+![image](https://user-images.githubusercontent.com/121398221/224513628-5102e514-9844-4f03-bf09-bc94ef0e0979.png)
+![image](https://user-images.githubusercontent.com/121398221/224513630-f474f665-6b95-470f-a906-b57b2cd90886.png)
+![image](https://user-images.githubusercontent.com/121398221/224513634-f4512ddb-d4d1-4998-ab3a-986f5fbf2f2c.png)
 
 ---
 
