@@ -103,7 +103,16 @@ pipeline {
 ![image](https://user-images.githubusercontent.com/121398221/224513761-dbbe7972-bada-4d3b-bc5f-22068b91cdda.png)
 
 
+АКТУАЛИЗАЦИЯ ОТ 14.03
+Всё удалось. Файл появился в моём репозитории:
+![image](https://user-images.githubusercontent.com/121398221/224857084-67157c28-26d0-456e-a631-fa19308ff73a.png)
+Ранее ошибся с паролем. Так правильно:
+![image](https://user-images.githubusercontent.com/121398221/224857176-fedb9271-4e30-49bb-b700-49d67cb31017.png)
+
+
+
 ---
+
 
 
 # Домашнее задание к занятию "9.1. Обзор систем IT-мониторинга" - `Ачеусов Андрей`
