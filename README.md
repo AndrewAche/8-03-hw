@@ -123,3 +123,52 @@ pipeline {
 ![image](https://user-images.githubusercontent.com/121398221/210910139-f7f44371-d06a-4b14-83b2-57c57ae85350.png)
 
 ---
+
+
+
+
+# Домашнее задание к занятию "9.2. Система мониторинга Zabbix. Часть 1" - `Ачеусов Андрей`
+
+### Задание 1
+
+![image](https://user-images.githubusercontent.com/121398221/226485067-4ff7ba32-bdbe-438f-ba0a-6e35abc73522.png)
+![image](https://user-images.githubusercontent.com/121398221/226485086-291bdb2c-2ce1-46ae-87cc-0bdde200e802.png)
+
+Команды для загрузки в GitHub изменений ("классические"):
+-git init
+-git add README.md 
+-git commit -m "some useful comment here"
+-git add
+-git push origin master
+
+Но честно говоря скриншоты я вставляю через Ctrl-C, Ctrl-V на github.com  :)
+
+---
+
+
+
+### Задание 2
+
+Выполнять с использованием 2-х ВМ в Облаке Яндекса:
+![image](https://user-images.githubusercontent.com/121398221/226485154-88b2022c-2576-43ae-bef0-bafd735f9d9c.png)
+![image](https://user-images.githubusercontent.com/121398221/226485182-6003d707-86e7-4759-987e-886030bab570.png)
+![image](https://user-images.githubusercontent.com/121398221/226485201-35084d8d-7529-4e10-8527-732d4fa47b3c.png)
+![image](https://user-images.githubusercontent.com/121398221/226485222-27f22574-699c-452d-881c-636d9ed1c10f.png)
+![image](https://user-images.githubusercontent.com/121398221/226485240-f6da61e4-eefa-4125-9a11-663222e688f9.png)
+![image](https://user-images.githubusercontent.com/121398221/226485262-0bf57b51-6c93-4ba2-a331-93bd84c8df5c.png)
+![image](https://user-images.githubusercontent.com/121398221/226485286-e144bdc0-7a90-41cf-ace4-263e11977e96.png)
+![image](https://user-images.githubusercontent.com/121398221/226485309-b81efec8-68ad-4235-9fba-0879342473fe.png)
+![image](https://user-images.githubusercontent.com/121398221/226485326-f8fe1b3d-3483-4bc5-8de2-8cb3e59dcc10.png)
+
+Команды для загрузки в GitHub изменений ("классические"):
+-git init
+-git add README.md 
+-git commit -m "some useful comment here"
+-git add
+-git push origin master
+
+
+---
+
+
+
