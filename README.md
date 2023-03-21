@@ -177,7 +177,7 @@ pipeline {
 
 ### Задание 1
 
-![image](https://user-images.githubusercontent.com/121398221/226763533-212e1cb9-bd65-4d7d-80f2-8c288181e0e3.png)
+![image](https://user-images.githubusercontent.com/121398221/226766310-6c8dab1b-0222-4b3f-92b6-c66524ef7996.png)
 
 ---
 
@@ -185,8 +185,7 @@ pipeline {
 
 ### Задание 3
 
-![image](https://user-images.githubusercontent.com/121398221/226764623-35b122c4-5b97-456d-bf39-c5dec6325b21.png)
-
+![image](https://user-images.githubusercontent.com/121398221/226767665-5d1c5a49-ca0d-458b-9e90-1abb4187d83b.png)
 
 ---
 
