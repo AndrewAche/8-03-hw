@@ -195,7 +195,7 @@ pipeline {
 
 ### Задание 4
 
-
+![image](https://user-images.githubusercontent.com/121398221/226768898-b317d891-1e7e-4917-a6b6-126d808adf1d.png)
 
 ---
 
