@@ -177,7 +177,7 @@ pipeline {
 
 ### Задание 1
 
-![image](https://user-images.githubusercontent.com/121398221/226766310-6c8dab1b-0222-4b3f-92b6-c66524ef7996.png)
+![image](https://user-images.githubusercontent.com/121398221/226768062-c577e00c-c550-4206-bc6b-803dd6b62dc3.png)
 
 ---
 
@@ -186,6 +186,9 @@ pipeline {
 ### Задание 3
 
 ![image](https://user-images.githubusercontent.com/121398221/226767665-5d1c5a49-ca0d-458b-9e90-1abb4187d83b.png)
+![image](https://user-images.githubusercontent.com/121398221/226768157-371e6d00-e281-4bc6-93e3-1b0edc979923.png)
+А вот на параметр RAM почему-то ругается...
+![image](https://user-images.githubusercontent.com/121398221/226768490-dbca20c5-392a-47a7-997b-a8ebeb35c37e.png)
 
 ---
 
