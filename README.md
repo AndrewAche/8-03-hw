@@ -206,7 +206,7 @@ pipeline {
 
 ### Задание 1
 
-
+![image](https://user-images.githubusercontent.com/121398221/227389181-372406a3-7f59-4818-97b8-30d2bb57145f.png)
 
 ---
 
