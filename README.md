@@ -214,7 +214,7 @@ pipeline {
 
 ### Задание 2
 
-
+![image](https://user-images.githubusercontent.com/121398221/227746617-f0d2a44a-34d8-4401-9d61-070148bebbdf.png)
 
 ---
 
