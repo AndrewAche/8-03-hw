@@ -221,7 +221,10 @@ pipeline {
 
 ### Задание 3
 
-
+Не выходит, из-за ошибки в файле конфигурации prometheus.yml не могу запустить Prometheus. Протестировал, ошибка возникает из-за выделенных на скрине полей, скорее всего что-то с синтаксисом: 
+![image](https://user-images.githubusercontent.com/121398221/227747544-af85403c-895d-429a-9678-81d3bb2168e5.png)
+Итог:
+![image](https://user-images.githubusercontent.com/121398221/227747589-5ea296f4-e524-4845-a241-38b373ca9639.png)
 
 ---
 
