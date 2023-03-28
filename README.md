@@ -206,7 +206,7 @@ pipeline {
 
 ### Задание 1
 
-![image](https://user-images.githubusercontent.com/121398221/227389181-372406a3-7f59-4818-97b8-30d2bb57145f.png)
+![image](https://user-images.githubusercontent.com/121398221/228389738-665aa3b2-6dc1-4c73-b0d0-fdbc265f61b2.png)
 
 ---
 
@@ -214,17 +214,15 @@ pipeline {
 
 ### Задание 2
 
-![image](https://user-images.githubusercontent.com/121398221/227746617-f0d2a44a-34d8-4401-9d61-070148bebbdf.png)
+![image](https://user-images.githubusercontent.com/121398221/228389222-4162a1e2-1c95-44a0-9c62-5e2d36934b6d.png)
 
 ---
 
 
 ### Задание 3
 
-Не выходит, из-за ошибки в файле конфигурации prometheus.yml не могу запустить Prometheus. Протестировал, ошибка возникает из-за выделенных на скрине полей, скорее всего что-то с синтаксисом: 
-![image](https://user-images.githubusercontent.com/121398221/227747544-af85403c-895d-429a-9678-81d3bb2168e5.png)
-Итог:
-![image](https://user-images.githubusercontent.com/121398221/227747589-5ea296f4-e524-4845-a241-38b373ca9639.png)
+![image](https://user-images.githubusercontent.com/121398221/228390390-0a6cfc3b-2ec6-4cc5-8d4b-614105a2e51c.png)
+![image](https://user-images.githubusercontent.com/121398221/228390438-7649c204-1195-4dec-8709-815baf21ca01.png)
 
 ---
 
