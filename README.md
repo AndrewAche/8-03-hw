@@ -229,14 +229,16 @@ pipeline {
 
 ### Задание 4
 
-
+![image](https://user-images.githubusercontent.com/121398221/228390905-075497bf-3002-4a8f-80d5-08d882aff6fd.png)
 
 ---
 
 
 ### Задание 5
 
-
+![image](https://user-images.githubusercontent.com/121398221/228391729-83f104b2-9b60-4ecf-bf1e-da3ca016b1b7.png)
+![image](https://user-images.githubusercontent.com/121398221/228391746-3d8dee59-f897-49b0-8454-6696bb6fa9e1.png)
+![image](https://user-images.githubusercontent.com/121398221/228391781-3e215eca-467d-4e37-bee3-2295233560dd.png)
 
 ---
 
