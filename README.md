@@ -242,3 +242,32 @@ pipeline {
 
 ---
 
+
+
+
+
+# Домашнее задание к занятию "9.5. Prometheus. Часть 2" - `Ачеусов Андрей`
+
+### Задание 1
+
+![image](https://user-images.githubusercontent.com/121398221/228992031-50ebdd31-1acd-4cb6-a474-b7924b22b189.png)
+
+---
+
+
+
+### Задание 2
+
+![image](https://user-images.githubusercontent.com/121398221/228992159-4e771dba-6e36-4bb9-8ccf-cfbc9430b192.png)
+![image](https://user-images.githubusercontent.com/121398221/228992203-e6b646dd-0235-4f71-9bd3-966e88270bad.png)
+
+---
+
+
+### Задание 3
+
+![image](https://user-images.githubusercontent.com/121398221/228994951-408b392e-b120-4f72-9241-da601a0b2f69.png)
+![image](https://user-images.githubusercontent.com/121398221/228994715-c93754fe-9fe5-4818-b4a8-e41a3e58708d.png)
+
+---
+
