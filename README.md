@@ -335,7 +335,48 @@ SMP (Symmetric Multiprocessing) – сильно связанные класте
 
 ### Задание 1
 
+Мастер-нода:
+vrrp_instance failover_test {
+state MASTER
+interface eth0
+virtual_router_id 10
+priority 110
+advert_int 4
+authentication {
+auth_type AH
+auth_pass 1111
+}
+unicast_peer {
+10.128.0.7
+}
+virtual_ipaddress {
+10.128.0.200 dev eth0 label eth0:vip
+}
+}
 
+![image](https://user-images.githubusercontent.com/121398221/231025815-c6baae4b-ed67-4885-9b5f-15c28f7e6808.png)
+
+
+Вторая нода
+vrrp_instance failover_test {
+state BACKUP
+interface eth0
+virtual_router_id 10
+priority 110
+advert_int 4
+authentication {
+auth_type AH
+auth_pass 1111
+}
+unicast_peer {
+10.128.0.24
+}
+virtual_ipaddress {
+10.128.0.50 dev eth0 label eth0:vip
+}
+}
+
+![image](https://user-images.githubusercontent.com/121398221/231026956-b555a9f3-57cc-485c-9602-b8362349f120.png)
 
 ---
 
