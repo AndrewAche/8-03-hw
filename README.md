@@ -336,6 +336,7 @@ SMP (Symmetric Multiprocessing) – сильно связанные класте
 ### Задание 1
 
 Мастер-нода:
+![image](https://user-images.githubusercontent.com/121398221/231904636-704f46b4-ebb7-4c2a-bb66-b6bee1b7015a.png)
 vrrp_instance test{
 state MASTER
 interface eth0
@@ -360,6 +361,7 @@ virtual_ipaddress{
 
 
 Вторая нода
+![image](https://user-images.githubusercontent.com/121398221/231904674-914b8dd1-5237-442d-899f-40b37df453b0.png)
 vrrp_instance test {
 state BACKUP
 interface eth0
