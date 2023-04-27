@@ -389,3 +389,35 @@ virtual_ipaddress {
 
 
 
+
+# Домашнее задание к занятию  10.3. "Pacemaker" - `Ачеусов Андрей`
+
+### Задание 1
+
+
+
+---
+
+
+
+### Задание 2
+
+
+
+---
+
+
+### Задание 3
+
+Выполнено на 2 нодах в облаке
+![image](https://user-images.githubusercontent.com/121398221/235011632-6aa317ce-962a-4dd9-9c38-652e993b20c3.png)
+![image](https://user-images.githubusercontent.com/121398221/235011690-e148feea-c309-431f-80c7-23ce9871bda2.png)
+![image](https://user-images.githubusercontent.com/121398221/235011718-8c66e686-f5b1-4b6f-8b33-3514b8bc8f8b.png)
+![image](https://user-images.githubusercontent.com/121398221/235011805-ed487274-5c95-416a-953e-c5a32cdb550c.png)
+![image](https://user-images.githubusercontent.com/121398221/235011846-21b84722-db6c-4b09-82ef-f0668f8b96e3.png)
+![image](https://user-images.githubusercontent.com/121398221/235011949-d24b493a-db04-4bc1-8fb9-ab4926c61d52.png)
+
+---
+
+
+
