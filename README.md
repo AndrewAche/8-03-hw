@@ -545,3 +545,34 @@ SQL - лучший выбор, когда: Доступна предопреде
 
 ---
 
+
+
+
+
+
+# Домашнее задание к занятию  11.4. "Очереди RabbitMQ" - `Ачеусов Андрей`
+
+### Задание 1
+
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/64649171-6e63-4e90-9175-2f07bdc97f6f)
+
+---
+
+
+
+### Задание 2
+
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/8f3a46b4-9e19-48ba-b015-7d73bbb13347)
+Ушло:
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/b6fd2546-5f5b-4f77-a3b6-1a75a1744e71)
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/1bc9656a-06e1-44e9-a53a-f84805bc35ec)
+
+---
+
+
+
+### Задание 3
+
+
+
+---
