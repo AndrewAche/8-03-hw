@@ -641,3 +641,27 @@ SQL - лучший выбор, когда: Доступна предопреде
 
 ---
 
+
+
+
+
+
+# Домашнее задание к занятию  12.2. "Работа с данными (DDL/DML)" - `Ачеусов Андрей`
+
+### Задание 1
+
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/3764eeb2-23a3-4c49-9fd6-720f0a0ed658)
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/321fa93c-8cc4-4b7c-828a-72869232f077)
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/7e7f47f2-e584-4e49-86cc-8c89c6d36897)
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/4e09d625-c93f-4c5c-82b3-6378dd35e7ba)
+
+---
+
+
+
+### Задание 2
+
+[ДЗ нетология_12.2.xlsx](https://github.com/AndrewAche/8-03-hw/files/11646566/_12.2.xlsx)
+
+---
+
