@@ -573,8 +573,15 @@ SQL - лучший выбор, когда: Доступна предопреде
 
 ### Задание 3
 
-В чем может быть проблема? Файл .erlang.cookie  на обоих ВМ одинаков
-![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/0d0bf7fe-fe31-4299-8295-74875ee9d5f9)
+Делал всё на тех же ВМ в облаке. IP сменились  
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/1c7081b5-b7b8-43e1-870f-26d38f8a85ca)  
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/c5b14c14-76d6-4260-b9be-1d316c0bbaf6)  
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/f417b537-9827-4af2-9619-43868f0f0bf0)  
+Первая нода остановлена  
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/1069babe-f154-4801-b9cc-4bba5182c793)  
+Параметры подключения изменены: указан IP второй ноды  
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/a0978ece-a889-4718-9570-69a31b590b0e)  
+![image](https://github.com/AndrewAche/8-03-hw/assets/121398221/3fce612a-42f4-48c4-a622-b1f7f42a392c)
 
 ---
 
